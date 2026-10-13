@@ -1,8 +1,8 @@
 # IE SciTech Sustainability Datathon 2026 — reconstruction
 
 Challenge entries for **Iberdrola (Smart Electric Mobility)** and **Aqualia (ESG
-materiality)**. The original notebooks and competition CSVs were lost when my previous
-GitHub account was banned — this repo reconstructs the **method and findings** I presented,
+materiality)**. The original notebooks and competition CSVs were lost along with a previous
+GitHub account — this repo reconstructs the **method and findings** I presented,
 running on a synthetic reference dataset calibrated to Spanish mid-size-metro statistics,
 so everything is reproducible without proprietary data.
 
